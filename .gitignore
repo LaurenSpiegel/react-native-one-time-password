@@ -7,3 +7,7 @@ yarn-error.log
 # firebase config
 */service_account.json
 
+# twilio config
+*/twilio_config.json
+
+
